@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "alwaysStrict": true,
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "module": "commonjs",
+        "noImplicitAny": false,
+        "outDir": "build",
+        "sourceMap": false,
+        "strictNullChecks": true,
+        "target": "es6"
+    }
+}
